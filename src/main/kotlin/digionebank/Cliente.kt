@@ -1,5 +1,0 @@
-package digionebank
-
-class Cliente {
-
-}
